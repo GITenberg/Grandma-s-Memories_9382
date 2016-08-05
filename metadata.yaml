@@ -1,0 +1,29 @@
+_repo: Grandma-s-Memories_9382
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 9382/9382-h/images/title.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Brine, Mary D. (Mary Dow)
+    alias: Brine, Mary Dow Northam
+    gutenberg_agent_id: '3030'
+    url: http://www.gutenberg.org/2009/agents/3030
+description: ''
+gutenberg_issued: '2004-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9382'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Grandmothers -- Juvenile poetry'
+- !lcc 'PZ'
+- GITenberg
+title: Grandma's Memories
+url: http://www.gutenberg.org/ebooks/9382
