@@ -1,10 +1,8 @@
 _repo: Grandma-s-Memories_9382
-_version: 0.0.1
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 9382/9382-h/images/title.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brine, Mary D. (Mary Dow)
@@ -12,6 +10,8 @@ creator:
     gutenberg_agent_id: '3030'
     url: http://www.gutenberg.org/2009/agents/3030
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9382#Grandma-s-Memories
 gutenberg_issued: '2004-08-15'
 gutenberg_type: Text
 identifiers:
